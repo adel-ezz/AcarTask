@@ -1,0 +1,19 @@
+.link {
+    text-decoration: none !important;
+    display: block;
+    border-bottom: 1px solid #9d1611;
+    color: #0c0c0c;
+    transition: .3s;
+    width: 50%;
+
+}
+
+.menu .link {
+    margin-bottom: 15px;
+}
+
+.link:hover {
+    color: #38393F;
+    border-bottom: 1px solid #f64e51;
+    width: 100%;
+}
